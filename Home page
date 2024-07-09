@@ -62,7 +62,7 @@
     <section id="about">
         <div class="container">
             <h2>About Us</h2>
-            <p>DOZEN is a startup specializing in providing innovative IT solutions to businesses of all sizes. We are committed to delivering high-quality services that exceed client expectations.</p>
+            <p>DOZEN is a startup specializing in providing innovative IT solutions to businesses of all sizes. We are committed to delivering high-quality services that exceed client expectations. Your idea, our solution. </p>
         </div>
     </section>
 
@@ -85,9 +85,8 @@
     </footer>
 </body>
 </html>
-CSS (styles.css)
-css
-Копировать код
+
+<style>
 /* Reset styles */
 * {
     margin: 0;
@@ -273,3 +272,4 @@ footer {
 footer p {
     font-size: 14px;
 }
+</style>
